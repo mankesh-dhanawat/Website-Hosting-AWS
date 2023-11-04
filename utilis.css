@@ -1,0 +1,90 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: rgb(255, 247, 0);
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.font-bold{
+    font-weight: bolder;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color: rgb(56, 79, 227);;
+}
+
+.btn{
+    color: white;
+    background-color: rgb(0, 156, 70);
+    
+    padding:10px 16px;
+    border: none;
+    border-radius: 6px;
+    
+    margin: 10px;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.365);
+}
+
+.btn:hover{
+    background-color:  rgb(0, 198, 89);
+}
+
+.btn:active{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    box-shadow: none;
+}
+
+
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.text-center{
+    text-align: center;
+}
